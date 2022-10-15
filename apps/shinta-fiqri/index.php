@@ -767,7 +767,9 @@ jQuery(function($){
     	<div style="text-align: center">
 	    	<img src="mandiri.png" style="width: 110px;"><br>
 			<!-- <img src="addin.jpeg" style="width: 260px;"> -->
-		    <p><input type="text" value="6281769585" id="myInput" disabled style="border: none;border-color: transparent;font-weight:700;font-size:medium;text-align: center;"><strong><br>a.n. Shinta Pujiheryati</strong></p>
+
+		    <p><input type="text" value="6281769585" id="myInput" disabled style="border: none;border-color: transparent;font-weight:700;font-size:medium;text-align: center;"><button onclick="myFunc()">Copy text</button><strong>
+		    	<a class="et_pb_button et_pb_button_1 et_animated et_pb_bg_layout_light" onclick="myFunc()" style="background-color: #afa173!important;box-shadow: 0px 2px 18px 0px rgb(0 0 0 / 20%);">Copy</a><br>a.n. Shinta Pujiheryati</strong></p>
 			<!-- <button style="background-color: #537a75!important;box-shadow: 0px 2px 18px 0px rgb(0 0 0 / 20%);" onclick="myFunction()">Copy </button> -->
 			<!-- <a class="et_pb_button et_pb_button_1 et_animated et_pb_bg_layout_light" id="" style="background-color: #537a75!important;box-shadow: 0px 2px 18px 0px rgb(0 0 0 / 20%);">Copy</a> -->
 			
@@ -780,33 +782,30 @@ jQuery(function($){
 
 	</div> <!-- #page-container -->
 	<script>
-	// function myFunction() {
-	// /* Get the text field */
-	// var copyText = document.getElementById("myInput");
+	function myFunc() {
+  // Get the text field
+  var copyText = document.getElementById("myInput");
 
-	// /* Select the text field */
-	// copyText.select();
-	// copyText.setSelectionRange(0, 99999); /* For mobile devices */
+  // Select the text field
+  copyText.select();
+  copyText.setSelectionRange(0, 99999); // For mobile devices
 
-	// /* Copy the text inside the text field */
-	// navigator.clipboard.writeText(copyText.value);
-	
-	// /* Alert the copied text */
-	// alert("Copied the text: " + copyText.value);
-
-	
-	// }
-	async function myFunction() {
-		var copyText = document.getElementById("myInput");
-		copyText.select();
-		copyText.setSelectionRange(0, 99999);
-		try {
-			await navigator.clipboard.writeText(copyText);
-			console.log('Page URL copied to clipboard');
-		} catch (err) {
-			console.error('Failed to copy: ', err);
-		}
-		}
+  // Copy the text inside the text field
+  navigator.clipboard.writeText(copyText.value);
+  
+  // Alert the copied text
+  alert("Copied the text: " + copyText.value);
+	// async function myFunction() {
+	// 	var copyText = document.getElementById("myInput");
+	// 	copyText.select();
+	// 	copyText.setSelectionRange(0, 99999);
+	// 	try {
+	// 		await navigator.clipboard.writeText(copyText);
+	// 		console.log('Page URL copied to clipboard');
+	// 	} catch (err) {
+	// 		console.error('Failed to copy: ', err);
+	// 	}
+	}
 
 		// Get the modal
 	var modal = document.getElementById("myModal");
