@@ -428,7 +428,7 @@ jQuery(function($){
 					<div class="et_pb_blurb_container">
 						<h4 class="et_pb_module_header"><span>Akad Nikah</span></h4>
 						<div class="et_pb_blurb_description">
-							<p>Jum'at, 22 Oktober 2022<br> 08.00 s/d 10.00 WIB<br> <strong>Gedung Senbik</strong><br> Jalan Soekarno Hatta no. 729 C Jatisari Kec. Buahbatu,<br> Kota Bandung, Jawa Barat</p>
+							<p>Sabtu, 22 Oktober 2022<br> 08.00 s/d 10.00 WIB<br> <strong>Gedung Senbik</strong><br> Jalan Soekarno Hatta no. 729 C Jatisari Kec. Buahbatu,<br> Kota Bandung, Jawa Barat</p>
 						</div>
 					</div>
 				</div> <!-- .et_pb_blurb_content -->
@@ -444,7 +444,7 @@ jQuery(function($){
 					<div class="et_pb_blurb_container">
 						<h4 class="et_pb_module_header"><span>Resepsi</span></h4>
 						<div class="et_pb_blurb_description">
-							<p>Senin, 22 Oktober 2022<br><strong> 11.00 s/d 14.00 WIB</strong><br> <strong>Gedung Senbik</strong><br> Jalan Soekarno Hatta no. 729 C Jatisari Kec. Buahbatu,<br> Kota Bandung, Jawa Barat</p>
+							<p>Sabtu, 22 Oktober 2022<br><strong> 11.00 s/d 14.00 WIB</strong><br> <strong>Gedung Senbik</strong><br> Jalan Soekarno Hatta no. 729 C Jatisari Kec. Buahbatu,<br> Kota Bandung, Jawa Barat</p>
 						</div>
 					</div>
 				</div> <!-- .et_pb_blurb_content -->
