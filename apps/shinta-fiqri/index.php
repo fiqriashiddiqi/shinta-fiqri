@@ -306,7 +306,7 @@ jQuery(function($){
 						<h4 class="et_pb_module_header" ><span style="font-family:'Vibur',cursive">Shinta & Fiqri</span></h4>
 						<div class="et_pb_blurb_description"><p style="text-align: center;">22 Oktober 2022</p></div>
 
-						<a class="et_pb_button et_pb_button_1 et_animated et_pb_bg_layout_light" href="https://calendar.google.com/calendar/ical/2n04pdbpfi13dde04e6tpi60dc%40group.calendar.google.com/public/basic.ics" target="_blank" style="background-color: #a9916b;width: 50%;margin-left: auto;margin-right: auto;margin-top: 20px; text-align: center;">Save Date</a>
+						<a class="et_pb_button et_pb_button_1 et_animated et_pb_bg_layout_light" href="https://calendar.google.com/event?action=TEMPLATE&tmeid=MXRwMzM2OWlvb2M4cDNhMHE2YXZjMDIzODUgZmlxcmlhc2hpZGRpcWlAbQ&tmsrc=fiqriashiddiqi%40gmail.com" target="_blank" style="background-color: #a9916b;width: 50%;margin-left: auto;margin-right: auto;margin-top: 20px; text-align: center;">Save Date</a>
 					</div>
 				</div> <!-- .et_pb_blurb_content -->
 			</div> <!-- .et_pb_blurb -->
@@ -614,7 +614,7 @@ jQuery(function($){
 							<div class="swiper-wrapper">
 									<?php
 								      // jalankan query untuk menampilkan semua data diurutkan berdasarkan nim
-								      $query = "SELECT * FROM tb_ucapan ORDER BY id ASC";
+								      $query = "SELECT * FROM tb_wish ORDER BY id ASC";
 								      $result = mysqli_query($koneksi, $query);
 								      //mengecek apakah ada error ketika menjalankan query
 								      if(!$result){
@@ -768,8 +768,8 @@ jQuery(function($){
 	    	<img src="mandiri.png" style="width: 110px;"><br>
 			<!-- <img src="addin.jpeg" style="width: 260px;"> -->
 
-		    <p><input type="text" value="6281769585" id="myInput" disabled style="border: none;border-color: transparent;font-weight:700;font-size:medium;text-align: center;"><button onclick="myFunc()">Copy text</button><strong>
-		    	<a class="et_pb_button et_pb_button_1 et_animated et_pb_bg_layout_light" onclick="myFunc()" style="background-color: #afa173!important;box-shadow: 0px 2px 18px 0px rgb(0 0 0 / 20%);">Copy</a><br>a.n. Shinta Pujiheryati</strong></p>
+		    <p><input type="text" value="1300020017433" id="myInput" disabled style="border: none;border-color: transparent;font-weight:700;font-size:medium;text-align: center;"><br><strong>a.n. Shinta Pujiheryati</strong>
+		    	<br><a class="et_pb_button et_pb_button_1 et_animated et_pb_bg_layout_light" onclick="myFunc()" style="background-color: #afa173!important;box-shadow: 0px 2px 18px 0px rgb(0 0 0 / 20%);color: white; display:initial!important; font-size:14px">Salin Rekening </a><br></p>
 			<!-- <button style="background-color: #537a75!important;box-shadow: 0px 2px 18px 0px rgb(0 0 0 / 20%);" onclick="myFunction()">Copy </button> -->
 			<!-- <a class="et_pb_button et_pb_button_1 et_animated et_pb_bg_layout_light" id="" style="background-color: #537a75!important;box-shadow: 0px 2px 18px 0px rgb(0 0 0 / 20%);">Copy</a> -->
 			
