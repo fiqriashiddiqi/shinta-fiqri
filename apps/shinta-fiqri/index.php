@@ -6,10 +6,10 @@ include('../shinta-fiqri/koneksi.php');
 
 <meta http-equiv="content-type" content="text/html;charset=UTF-8" /><!-- /Added by HTTrack -->
 <head>
-	<meta name="description" content="Undangan pernikahan Shinta dan Fiqri, Sabtu 22 Oktober 2022.">
-	<meta property="og:title" content="Undangan pernikahan Shinta dan Fiqri, Sabtu 22 Oktober 2022." />
+	<meta name="description" content="Undangan pernikahan Shinta dan Fiqri, Sabtu 29 Oktober 2022.">
+	<meta property="og:title" content="Undangan pernikahan Shinta dan Fiqri, Sabtu 29 Oktober 2022." />
 	<meta property="og:url" content="https://shinta-fiqri.sebar-undangan.com/" />
-	<meta property="og:description" content="Undangan pernikahan Shinta dan Fiqri, Sabtu 22 Oktober 2022.">
+	<meta property="og:description" content="Undangan pernikahan Shinta dan Fiqri, Sabtu 29 Oktober 2022.">
 	<meta property="og:image" content="https://shinta-fiqri.sebar-undangan.com/1.bp.blogspot.com/-FuprKxe6I3I/X3waINlnqnI/AAAAAAAAFzo/DF1N99KVgt8ZjEiaNubMyRjz17nxGNAxQCLcBGAsYHQ/s16000/AZ--531.jpg">
 	<meta property="og:type" content="article" />
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -304,9 +304,9 @@ jQuery(function($){
 					
 					<div class="et_pb_blurb_container">
 						<h4 class="et_pb_module_header" ><span style="font-family:'Vibur',cursive">Shinta & Fiqri</span></h4>
-						<div class="et_pb_blurb_description"><p style="text-align: center;">22 Oktober 2022</p></div>
+						<div class="et_pb_blurb_description"><p style="text-align: center;">29 Oktober 2022</p></div>
 
-						<a class="et_pb_button et_pb_button_1 et_animated et_pb_bg_layout_light" href="https://calendar.google.com/event?action=TEMPLATE&tmeid=MXRwMzM2OWlvb2M4cDNhMHE2YXZjMDIzODUgZmlxcmlhc2hpZGRpcWlAbQ&tmsrc=fiqriashiddiqi%40gmail.com" target="_blank" style="background-color: #a9916b;width: 50%;margin-left: auto;margin-right: auto;margin-top: 20px; text-align: center;">Save Date</a>
+						<!-- <a class="et_pb_button et_pb_button_1 et_animated et_pb_bg_layout_light" href="https://calendar.google.com/event?action=TEMPLATE&tmeid=MXRwMzM2OWlvb2M4cDNhMHE2YXZjMDIzODUgZmlxcmlhc2hpZGRpcWlAbQ&tmsrc=fiqriashiddiqi%40gmail.com" target="_blank" style="background-color: #a9916b;width: 50%;margin-left: auto;margin-right: auto;margin-top: 20px; text-align: center;">Save Date</a> -->
 					</div>
 				</div> <!-- .et_pb_blurb_content -->
 			</div> <!-- .et_pb_blurb -->
@@ -387,7 +387,7 @@ jQuery(function($){
 				<div class="et_pb_column et_pb_column_4_4 et_pb_column_6  et_pb_css_mix_blend_mode_passthrough et-last-child">
 				
 				
-				<div class="et_pb_module et_pb_countdown_timer et_pb_countdown_timer_0 et_pb_no_bg et_pb_bg_layout_light" data-end-timestamp="1666400400">
+				<div class="et_pb_module et_pb_countdown_timer et_pb_countdown_timer_0 et_pb_no_bg et_pb_bg_layout_light" data-end-timestamp="1667008800">
 				
 				
 				<div class="et_pb_countdown_timer_container clearfix">
@@ -426,9 +426,9 @@ jQuery(function($){
 				<div class="et_pb_blurb_content">
 					<div class="et_pb_main_blurb_image"><span class="et_pb_image_wrap"><img width="55" height="63" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2055%2063'%3E%3C/svg%3E" alt="" class="et-waypoint et_pb_animation_top wp-image-882" data-lazy-src="../wp-content/uploads/2020/02/section-title-img-1.png" /><noscript><img width="55" height="63" src="../wp-content/uploads/2020/02/section-title-img-1.png" alt="" class="et-waypoint et_pb_animation_top wp-image-882" /></noscript></span></div>
 					<div class="et_pb_blurb_container">
-						<h4 class="et_pb_module_header"><span>Akad Nikah</span></h4>
+						<h4 class="et_pb_module_header"><span>Resepsi</span></h4>
 						<div class="et_pb_blurb_description">
-							<p>Sabtu, 22 Oktober 2022<br> 08.00 s/d 10.00 WIB<br> <strong>Gedung Senbik</strong><br> Jalan Soekarno Hatta no. 729 C Jatisari Kec. Buahbatu,<br> Kota Bandung, Jawa Barat</p>
+							<p>Sabtu, 29 Oktober 2022<br> 09.00 s/d 14.00 WIB<br> <strong>Grand Cordela Hotel AS Putra Kuningan</strong><br> Jl. Siliwangi No.91, Purwawinangun, Kec. Kuningan,<br> Kabupaten Kuningan, Jawa Barat 45511</p>
 						</div>
 					</div>
 				</div> <!-- .et_pb_blurb_content -->
@@ -444,7 +444,7 @@ jQuery(function($){
 					<div class="et_pb_blurb_container">
 						<h4 class="et_pb_module_header"><span>Resepsi</span></h4>
 						<div class="et_pb_blurb_description">
-							<p>Sabtu, 22 Oktober 2022<br><strong> 11.00 s/d 14.00 WIB</strong><br> <strong>Gedung Senbik</strong><br> Jalan Soekarno Hatta no. 729 C Jatisari Kec. Buahbatu,<br> Kota Bandung, Jawa Barat</p>
+							<p>Sabtu, 29 Oktober 2022<br><strong> 09.00 s/d 14.00 WIB</strong><br> <strong>Grand Cordela Hotel AS Putra Kuningan</strong><br> Jl. Siliwangi No.91, Purwawinangun, Kec. Kuningan,<br> Kabupaten Kuningan, Jawa Barat 45511</p>
 						</div>
 					</div>
 				</div> <!-- .et_pb_blurb_content -->
@@ -457,7 +457,7 @@ jQuery(function($){
 				
 				
 				<div class="et_pb_button_module_wrapper et_pb_button_1_wrapper et_pb_button_alignment_center et_pb_module ">
-				<a class="et_pb_button et_pb_button_1 et_animated et_pb_bg_layout_light" href="https://goo.gl/maps/Ngq8XXeksrf13i1m6" target="_blank" style="background-color: #a9916b!important;">Google Maps</a>
+				<a class="et_pb_button et_pb_button_1 et_animated et_pb_bg_layout_light" href="https://g.page/grand-cordela-kuningan?share" target="_blank" style="background-color: #a9916b!important;">Google Maps</a>
 			</div>
 			</div> <!-- .et_pb_column -->
 				
